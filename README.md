@@ -3,5 +3,5 @@
 A beginner-friendly turn-based strategy game made in Godot 3.x.
 
 🎮 Play: https://calamityforsight.itch.io/mini-turnbased-game  
-🌐 Portfolio: https://yourusername.github.io  
+🌐 Portfolio: https://MiniDevCreator.github.io  
 🛠 Engine: Godot 3.x
